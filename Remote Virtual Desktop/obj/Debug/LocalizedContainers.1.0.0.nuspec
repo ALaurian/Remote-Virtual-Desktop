@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LocalizedContainers</id>
+    <version>1.0.0</version>
+    <authors>Laurian Filip Avrigeanu</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETFramework4.0" />
+      <group targetFramework=".NETFramework4.5" />
+      <group targetFramework=".NETFramework4.5.1" />
+      <group targetFramework=".NETFramework4.5.2" />
+      <group targetFramework=".NETFramework4.6" />
+      <group targetFramework=".NETFramework4.6.1" />
+      <group targetFramework=".NETFramework4.7" />
+      <group targetFramework=".NETFramework4.7.2" />
+      <group targetFramework=".NETFramework4.8" />
+      <group targetFramework="net5.0" />
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\l.avrigeanu\RiderProjects\Localized Containers\Localized Containers\bin\Debug\net40\Localized Containers.dll" target="lib\net40\Localized Containers.dll" />
+    <file src="C:\Users\l.avrigeanu\RiderProjects\Localized Containers\Localized Containers\bin\Debug\net45\Localized Containers.dll" target="lib\net45\Localized Containers.dll" />
+    <file src="C:\Users\l.avrigeanu\RiderProjects\Localized Containers\Localized Containers\bin\Debug\net451\Localized Containers.dll" target="lib\net451\Localized Containers.dll" />
+    <file src="C:\Users\l.avrigeanu\RiderProjects\Localized Containers\Localized Containers\bin\Debug\net452\Localized Containers.dll" target="lib\net452\Localized Containers.dll" />
+    <file src="C:\Users\l.avrigeanu\RiderProjects\Localized Containers\Localized Containers\bin\Debug\net46\Localized Containers.dll" target="lib\net46\Localized Containers.dll" />
+    <file src="C:\Users\l.avrigeanu\RiderProjects\Localized Containers\Localized Containers\bin\Debug\net461\Localized Containers.dll" target="lib\net461\Localized Containers.dll" />
+    <file src="C:\Users\l.avrigeanu\RiderProjects\Localized Containers\Localized Containers\bin\Debug\net47\Localized Containers.dll" target="lib\net47\Localized Containers.dll" />
+    <file src="C:\Users\l.avrigeanu\RiderProjects\Localized Containers\Localized Containers\bin\Debug\net472\Localized Containers.dll" target="lib\net472\Localized Containers.dll" />
+    <file src="C:\Users\l.avrigeanu\RiderProjects\Localized Containers\Localized Containers\bin\Debug\net48\Localized Containers.dll" target="lib\net48\Localized Containers.dll" />
+    <file src="C:\Users\l.avrigeanu\RiderProjects\Localized Containers\Localized Containers\bin\Debug\net5.0\Localized Containers.dll" target="lib\net5.0\Localized Containers.dll" />
+    <file src="C:\Users\l.avrigeanu\RiderProjects\Localized Containers\Localized Containers\bin\Debug\net6.0\Localized Containers.dll" target="lib\net6.0\Localized Containers.dll" />
+  </files>
+</package>

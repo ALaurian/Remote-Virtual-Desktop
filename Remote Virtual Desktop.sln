@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remote Virtual Desktop", "Remote Virtual Desktop\Remote Virtual Desktop.csproj", "{219E854F-D038-44D7-8644-F2C3C57D940C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{219E854F-D038-44D7-8644-F2C3C57D940C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{219E854F-D038-44D7-8644-F2C3C57D940C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{219E854F-D038-44D7-8644-F2C3C57D940C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{219E854F-D038-44D7-8644-F2C3C57D940C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
